@@ -1,4 +1,4 @@
-# Conector Customizado "Random" para n8n
+# Conector Customizado "Random Number" para n8n
 
 Este projeto contém um conector (**custom node**) para a plataforma de
 automação **n8n**, que utiliza a API do Random.org para gerar um número
@@ -90,3 +90,4 @@ Abra seu navegador e acesse: <http://localhost:5678>
 
 📌 Agora seu conector customizado "Random" está pronto para uso dentro
 do n8n!
+
